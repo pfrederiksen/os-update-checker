@@ -1,7 +1,7 @@
 # OS Update Checker
 
-[![ClawHub](https://img.shields.io/badge/ClawHub-os--update--checker-blue)](https://clawhub.com/pfrederiksen/os-update-checker)
-[![Version](https://img.shields.io/badge/version-1.1.0-green)]()
+[![ClawHub](https://img.shields.io/badge/ClawHub-os--update--checker-blue)](https://clawhub.ai/pfrederiksen/os-update-checker)
+[![Version](https://img.shields.io/badge/version-1.2.0-green)]()
 
 An [OpenClaw](https://openclaw.ai) skill that lists available OS package updates, fetches changelogs for each, and classifies risk — so you know exactly what's changing before you approve an upgrade.
 
@@ -18,6 +18,7 @@ Auto-detects the package manager. No configuration needed.
 | openSUSE Leap / Tumbleweed / SLES | `zypper` |
 | Alpine Linux | `apk` |
 | macOS / Linux (Homebrew) | `brew` |
+| Any (global npm packages) | `npm` |
 
 ## Features
 
@@ -85,5 +86,5 @@ MIT
 
 ## Links
 
-- [ClawHub](https://clawhub.com/pfrederiksen/os-update-checker)
+- [ClawHub](https://clawhub.ai/pfrederiksen/os-update-checker)
 - [OpenClaw](https://openclaw.ai)
