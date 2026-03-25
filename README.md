@@ -1,7 +1,7 @@
 # OS Update Checker
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-os--update--checker-blue)](https://clawhub.ai/pfrederiksen/os-update-checker)
-[![Version](https://img.shields.io/badge/version-1.2.0-green)]()
+[![Version](https://img.shields.io/badge/version-1.2.1-green)]()
 
 An [OpenClaw](https://openclaw.ai) skill that lists available OS and npm package updates, fetches changelogs for each, and classifies risk — so you know exactly what's changing before you approve an upgrade.
 
